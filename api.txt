@@ -1,0 +1,7 @@
+¿Qué hace esta ruta?
+Cada ruta responde con un mensaje de texto diferente. La ruta "/mensaje/:nombre" usa un parámetro para personalizar el saludo.
+
+¿Para qué podría servir en una aplicación comunitaria?
+- Para dar la bienvenida a miembros de la comunidad.
+- Para mostrar información personalizada según el nombre del usuario.
+- Para crear endpoints como /reportes o /alertas que organicen la información.

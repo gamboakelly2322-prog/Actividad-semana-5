@@ -1,0 +1,5 @@
+Las APIs ayudan a que las comunidades compartan información de forma organizada porque:
+- Centralizan los datos en un solo lugar accesible para todos.
+- Permiten crear rutas específicas para cada tipo de información: /reportes, /alertas, /eventos.
+- Evitan el caos de los grupos de WhatsApp, ya que los datos son estructurados (JSON) y se pueden filtrar, ordenar o buscar fácilmente.
+- Se pueden conectar con aplicaciones móviles o web para que los vecinos reporten problemas (baches, fugas) y vean alertas en tiempo real.

@@ -1,0 +1,5 @@
+- ¿Cómo puedo hacer que el servidor devuelva datos en formato JSON en lugar de texto plano?
+- ¿Qué otros tipos de parámetros existen además de los de ruta?
+- ¿Cómo puedo recibir datos enviados por un formulario (POST)?
+- ¿Cómo se maneja la autenticación en una API?
+- ¿Cómo puedo conectar esta API con una base de datos?
