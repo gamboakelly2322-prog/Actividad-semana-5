@@ -1,3 +1,3 @@
 - http://localhost:3000 : Muestra "Servidor activo". Es la ruta raíz.
 - http://localhost:3000/saludo : Muestra "Hola comunidad".
-- http://localhost:3000/mensaje/juan : Toma el nombre "juan" de la URL y muestra "Hola juan". Es dinámico, acepta cualquier nombre.
+- http://localhost:3000/mensaje/juan : Toma el nombre "juan" de la URL y muestra "Hola juan". Es una ruta dinámica porque el nombre puede cambiar.
